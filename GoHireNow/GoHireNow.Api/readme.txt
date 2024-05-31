@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -Connection "Server=72.52.250.220; Database=gohirenow;User Id=db_ghn_prod;Password=p5hDEuhxr8;" -Provider Microsoft.EntityFrameworkCore.SqlServer -context GoHireNowContext -Project GoHireNow.Database -force

@@ -1,0 +1,125 @@
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+D:\AhmadProjects\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csprojAssemblyReference.cache
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csprojAssemblyReference.cache
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\benme\Desktop\Workspace\gohirenow\code\New folder\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\2-jan-2021\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Robin\Desktop\ONE\OneDrive - Media23\DATA\evirtualassistants\code\api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Quentiko\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Quentiko\OneDrive\Documents\New folder\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+D:\EVirtualAssistants\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Quentiko\OneDrive\Documents\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+c:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+c:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+c:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+C:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+c:\Users\Bavovna\Music\EVA\evirtualassistants-api\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.deps.json
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.json
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.runtimeconfig.dev.json
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.dll
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\bin\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.AssemblyReference.cache
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfoInputs.cache
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.AssemblyInfo.cs
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.csproj.CoreCompileInputs.cache
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.dll
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.pdb
+D:\EVA\EVA-BE\GoHireNow\GoHireNow.Database\obj\Debug\netcoreapp2.2\GoHireNow.Database.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f7d7820-41d8-4afc-9198-fab78755cb37": {
+      "ProjectGuid": "4f7d7820-41d8-4afc-9198-fab78755cb37",
+      "DisplayName": "GoHireNow.Api",
+      "ColorIndex": 0
+    },
+    "1b81a5cf-0c64-4b3e-aebb-fd2a46940688": {
+      "ProjectGuid": "1b81a5cf-0c64-4b3e-aebb-fd2a46940688",
+      "DisplayName": "GoHireNow.Service",
+      "ColorIndex": 1
+    },
+    "9e03023a-fde1-4b68-95c8-8a093febf3c6": {
+      "ProjectGuid": "9e03023a-fde1-4b68-95c8-8a093febf3c6",
+      "DisplayName": "GoHireNow.Identity",
+      "ColorIndex": 2
+    },
+    "f0def1a1-8f6b-4007-a200-a0f89a4cd9d2": {
+      "ProjectGuid": "f0def1a1-8f6b-4007-a200-a0f89a4cd9d2",
+      "DisplayName": "GoHireNow.Models",
+      "ColorIndex": 3
+    },
+    "8183b5f2-c1a2-498c-9beb-8a0da3e9f98b": {
+      "ProjectGuid": "8183b5f2-c1a2-498c-9beb-8a0da3e9f98b",
+      "DisplayName": "GoHireNow.Database",
+      "ColorIndex": 4
+    },
+    "cc0005a6-7cea-47b0-b6ed-5df23cf21a86": {
+      "ProjectGuid": "cc0005a6-7cea-47b0-b6ed-5df23cf21a86",
+      "DisplayName": "GoHirNow.WebMvc",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

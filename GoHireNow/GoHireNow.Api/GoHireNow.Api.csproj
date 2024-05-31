@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>b53ecd54-7963-4e42-a488-f5890eccd74c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Files\**" />
+    <Content Remove="wwwroot\Files\**" />
+    <Content Include="EmailTemplate\**" CopyToOutputDirectory="PreserveNewest" />
+    <EmbeddedResource Remove="wwwroot\Files\**" />
+    <None Remove="wwwroot\Files\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ImageProcessor" Version="2.7.0.100" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+    <PackageReference Include="ncrontab" Version="3.3.1" />
+    <PackageReference Include="OpenAI" Version="1.11.0" />
+    <PackageReference Include="PusherServer" Version="4.2.0" />
+    <PackageReference Include="Quartz" Version="3.5" />
+    <PackageReference Include="Quartz.Extensions.Hosting" Version="3.5" />
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+    <PackageReference Include="Stripe.net" Version="41.7.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+    <PackageReference Include="Twilio" Version="6.10.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="Resources\Portfolio\198daad2-a4ad-46db-84e6-4ca593e2cd7d\" />
+    <Folder Include="wwwroot\EmailTemplateResources\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GoHireNow.Database\GoHireNow.Database.csproj" />
+    <ProjectReference Include="..\GoHireNow.Identity\GoHireNow.Identity.csproj" />
+    <ProjectReference Include="..\GoHireNow.Models\GoHireNow.Models.csproj" />
+    <ProjectReference Include="..\GoHireNow.Services\GoHireNow.Service.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>
